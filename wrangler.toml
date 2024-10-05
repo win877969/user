@@ -1,8 +1,4 @@
-name = "cf-worker-ws-dev-0415" # todo
-#name = "cf-worker-connect-test" # todo
-#main = "test/worker/cf-cdn-cgi-trace2.js"
-
-#main = "test/worker/worker-name = "user" # todo
+name = "user" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -14,10 +10,4 @@ workers_dev = true
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
 PROXYIP = "35.219.50.99:50008"
-UUID = "169623eb-7a3a-43ea-b373-b305cd21a335"-test.js"
-main = "src/worker-vless.js"
-
-compatibility_date = "2024-04-15"
-
-[vars]
-# UUID = "example_dev_token"
+UUID = "169623eb-7a3a-43ea-b373-b305cd21a335"
